@@ -1,0 +1,8 @@
+google-play-scraper==1.0.0
+pandas
+numpy
+matplotlib
+scikit-learn
+vaderSentiment
+spacy
+python-dateutil
