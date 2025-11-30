@@ -3,6 +3,6 @@ pandas
 numpy
 matplotlib
 scikit-learn
-vaderSentiment
 spacy
 python-dateutil
+vaderSentiment
