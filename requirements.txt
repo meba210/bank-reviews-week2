@@ -1,8 +1,14 @@
-google-play-scraper==1.0.0
 pandas
 numpy
 matplotlib
 scikit-learn
 spacy
-python-dateutil
+transformers
+torch
+sentence-transformers
+psycopg2-binary
+sqlalchemy
+nltk
 vaderSentiment
+wordcloud
+python-dateutil
